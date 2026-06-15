@@ -1,175 +1,50 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" style="object-fit: cover; border-radius: 12px;" />
-</div>
+# 👋 Hi, I'm Hasan Emam
 
-<!-- TITLE ANIMATION -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Hasan+Emam;Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;UI%2FUX+%26+Performance+Focused" alt="Typing SVG" />
-  </a>
-</div>
+**Full-Stack Web Developer** — React & Node.js
 
-<!-- SOCIAL BADGES WITH VIBRANT COLORS -->
-<div align="center">
-  <a href="https://x.com/HasanEmam1717" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/hasanemam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hasanemam1717@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-  </a>
-</div>
+I build clean, scalable web applications and enjoy sharing what I learn along the way.
 
-<br />
-
-<!-- VISITOR COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasanemam1717&label=PROFILE+VIEWS&style=for-the-badge&color=FF6F61" alt="Profile Views" />
-</div>
-
-<br />
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/HasanEmam1717)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanemam)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasanemam1717@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hasanemam1717&style=flat-square&color=blue)
 
 ---
 
-## ⚡ About Me
+## About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        Hi there! I'm <strong>Hasan Emam</strong> — a passionate <strong>Full-Stack Web Developer</strong> who thrives on building digital experiences that are both beautiful and performant.
-      </p>
-      <p>
-        🚀 With a strong foundation in <strong>React.js & Node.js</strong>, I specialize in crafting scalable applications that enhance user experience while reducing operational costs.
-      </p>
-      <p>
-        📚 I'm a firm believer in <strong>sharing knowledge</strong> — whether through mentoring, writing articles, or contributing to open source.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+I'm a software developer focused on full-stack development with **React.js** and **Node.js**. I care about user experience, clean code, and building things that make a difference.
+
+- 🔭 Currently working on scalable full-stack applications
+- 🌱 Learning TypeScript, system design, and cloud architecture
+- 💬 Ask me about React, Node.js, JavaScript, and performance optimization
+- 📄 I enjoy writing articles and sharing knowledge
 
 ---
 
-## 🎯 Current Focus
+## Tech Stack
 
-```yaml
-🔭  Working On: Scalable full-stack applications with React & Node.js
-🌱  Learning: Advanced TypeScript patterns, System Design, Cloud Architecture
-👯  Looking to: Collaborate on open-source projects and innovative ideas
-💬  Ask me about: React, Node.js, JavaScript
-⚡  Fun fact: I believe clean code is an art form 🎨
-```
+**Frontend** — HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Next.js
 
----
+**Backend** — Node.js, Express.js
 
-## 🛠️ Tech Stack
+**Database** — MongoDB, PostgreSQL
 
-### Frontend
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</div>
-
-### Backend & Database
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</div>
-
-### Tools & Platforms
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-
-<br />
+**Tools** — Git, Docker, Linux
 
 ---
 
-## 📌 Featured Projects
+## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/hasanemam1717">
-    <img src="https://car-shop-client-pi.vercel.app/" />
-  </a>
-  <a href="https://github.com/hasanemam1717">
-    <img src="https://my-portfolio-client-cyan.vercel.app/" />
-  </a>
-</div>
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanemam1717&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hasanemam1717&layout=compact&theme=default&hide_border=true)
 
-<p align="center">
-  <i>💡 <strong>Pro tip:</strong> Replace <code>your-repo-1</code> through <code>your-repo-4</code> with your actual repository names to showcase your best projects!</i>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=hasanemam1717&theme=default&hide_border=true)
 
 ---
 
-## 📊 GitHub Analytics
+## Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanemam1717&show_icons=true&count_private=true&theme=radical&bg_color=1A1B27&title_color=FF6F61&icon_color=FF6F61&border_color=30363D" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanemam1717&locale=en&layout=compact&langs_count=6&theme=radical&bg_color=1A1B27&title_color=FF6F61&border_color=30363D" height="170" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hasanemam1717&theme=radical&background=1A1B27&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&border=30363D" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanemam1717&radius=16&theme=react&area=true&bg_color=1A1B27&color=FF6F61&line=FF6F61&point=FFFFFF&area_color=FF6F61&hide_border=true" height="300" alt="Activity Graph" />
-</div>
-
-<br />
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanemam1717&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://x.com/HasanEmam1717" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/hasanemam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="mailto:hasanemam1717@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hasanemam1717/count.svg" alt="Visitor Counter" />
-  <p><strong>Thanks for stopping by! Have a great day! 🚀</strong></p>
-</div>
+- Twitter: [@HasanEmam1717](https://x.com/HasanEmam1717)
+- LinkedIn: [hasanemam](https://www.linkedin.com/in/hasanemam)
+- Email: hasanemam1717@gmail.com
