@@ -14,14 +14,11 @@
   <a href="https://x.com/HasanEmam1717" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/hasanemam" target="_blank">
+  <a href="https://www.linkedin.com/in/hasanemam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:hasanemam1717@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-  </a>
-  <a href="https://hasanemam.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </div>
 
@@ -50,9 +47,6 @@
       <p>
         📚 I'm a firm believer in <strong>sharing knowledge</strong> — whether through mentoring, writing articles, or contributing to open source.
       </p>
-      <p>
-        ☕ When I'm not coding, you'll find me reading tech articles, exploring new frameworks, or experimenting with UI/UX design.
-      </p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Coding GIF" />
@@ -68,7 +62,7 @@
 🔭  Working On: Scalable full-stack applications with React & Node.js
 🌱  Learning: Advanced TypeScript patterns, System Design, Cloud Architecture
 👯  Looking to: Collaborate on open-source projects and innovative ideas
-💬  Ask me about: React, Node.js, JavaScript, UI/UX, Performance Optimization
+💬  Ask me about: React, Node.js, JavaScript
 ⚡  Fun fact: I believe clean code is an art form 🎨
 ```
 
@@ -103,7 +97,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
@@ -115,19 +108,10 @@
 
 <div align="center">
   <a href="https://github.com/hasanemam1717">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanemam1717&repo=your-repo-1&theme=radical&bg_color=1A1B27&border_color=FF6F61&icon_color=FF6F61&title_color=FF6F61&text_color=FFFFFF" />
+    <img src="https://car-shop-client-pi.vercel.app/" />
   </a>
   <a href="https://github.com/hasanemam1717">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanemam1717&repo=your-repo-2&theme=radical&bg_color=1A1B27&border_color=FF6F61&icon_color=FF6F61&title_color=FF6F61&text_color=FFFFFF" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/hasanemam1717">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanemam1717&repo=your-repo-3&theme=radical&bg_color=1A1B27&border_color=FF6F61&icon_color=FF6F61&title_color=FF6F61&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/hasanemam1717">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanemam1717&repo=your-repo-4&theme=radical&bg_color=1A1B27&border_color=FF6F61&icon_color=FF6F61&title_color=FF6F61&text_color=FFFFFF" />
+    <img src="https://my-portfolio-client-cyan.vercel.app/" />
   </a>
 </div>
 
